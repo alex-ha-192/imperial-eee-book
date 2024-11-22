@@ -11,7 +11,7 @@ All the markdown files are in the src/ directory, and make sure to reflect any n
 If you want to change the nitty-gritty (configuration etc.), then you'll need to clone the repo and make sure you have both Rust [(get it here)](https://www.rust-lang.org/tools/install)  and mdBook [(get it here)](https://rust-lang.github.io/mdBook/guide/installation.html) installed.
 
 ## Do you have a style guide?
-Not yet, but we're working on one!
+Yep! It's available, shockingly enough, under the heading "Style guide" in the Book.
 
 ## I can't make equations! What's the point of this if it can't do equations!
 My friend, we have stumbled upon the great revelation of our times: **mdBook has MathJax support**. Simply place down a \\\\( [LaTeX equation] \\\\) and the equation shall appear in the book as if by magic. For more information, [look here](https://rust-lang.github.io/mdBook/format/mathjax.html).

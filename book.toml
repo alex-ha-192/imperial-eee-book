@@ -1,5 +1,6 @@
 [book]
-authors = []
+title = "Imperial EEE/EIE Book"
+authors = ["Imperial EEE/EIE students"]
 language = "en"
 multilingual = false
 src = "src"

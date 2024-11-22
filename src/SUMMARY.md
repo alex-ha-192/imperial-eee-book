@@ -1,5 +1,9 @@
 # Summary
 
+[Introduction](introduction.md)
+
+---
+
 # Year 1
 # Mathematics 1
 - [Complex numbers](year_1/mathematics_1/complex_numbers.md)
@@ -20,3 +24,7 @@
 ---
 
 # Year 4
+
+---
+
+- [Style guide](style_guide.md)

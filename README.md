@@ -9,3 +9,6 @@ Clone the repo and make sure you have both Rust [(get it here)](https://www.rust
 
 ## Do you have a style guide?
 Not yet, but we're working on one!
+
+## I can't make equations! What's the point of this if it can't do equations!
+My friend, we have stumbled upon the great revelation of our times: **mdBook has MathJax support**. Simply place down a \\\\( [LaTeX equation] \\\\) and the equation shall appear in the book as if by magic. For more information, [look here](https://rust-lang.github.io/mdBook/format/mathjax.html).
